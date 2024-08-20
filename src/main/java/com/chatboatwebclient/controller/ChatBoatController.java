@@ -54,7 +54,7 @@ public class ChatBoatController {
         System.out.println(json_Body);
         System.out.println("ravi");
         HttpHeaders headers=new HttpHeaders();
-        headers.set("x-goog-api-key","AIzaSyBZ9gTOWBUkwbmtu6LSGsexLPaoJCwzTVM");
+        headers.set("x-goog-api-key","xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
         headers.setContentType(MediaType.APPLICATION_JSON);
         //prepare HttpRequest as HttpEntity obj having head body
