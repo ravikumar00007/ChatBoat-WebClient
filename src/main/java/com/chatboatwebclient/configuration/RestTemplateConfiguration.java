@@ -12,7 +12,7 @@ public class RestTemplateConfiguration {
     public RestTemplate restTemplate() {
         /*RestTemplate restTemplate = new RestTemplate();
         restTemplate.getInterceptors().add(((request, body, execution) ->{
-            request.getHeaders().add("x-goog-api-key","AIzaSyBZ9gTOWBUkwbmtu6LSGsexLPaoJCwzTVM");
+            request.getHeaders().add("x-goog-api-key","xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
             return execution.execute(request, body);
         } ));
